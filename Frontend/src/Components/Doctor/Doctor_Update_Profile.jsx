@@ -73,7 +73,7 @@ function Doctor_Update_Profile() {
               className='mt-[1px] py-1 px-4 w-full rounded-md text-[#F1B814] border text-lg font-medium outline-0 border-[#F1BB14] focus-within:border-[#F1BB14] focus-within:border-b-2 hover:cursor-not-allowed'
               type={doctorInfo.firstName}
               disabled
-              value="Sumit"
+              value="Roshan"
             />
           </div>
           <div className='flex flex-col items-start'>

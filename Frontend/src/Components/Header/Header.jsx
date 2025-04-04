@@ -117,7 +117,7 @@ function Header() {
                 <div className='w-10 h-10 border border-red-600 overflow-hidden rounded-full'>
                 <img className='w-full h-full'  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Default_pfp.svg/2048px-Default_pfp.svg.png" alt="User Profile Picture" />
                 </div>
-                <h1>Sumit</h1>
+                <h1>Roshan</h1>
                 <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#000000"><path d="M480-360 280-560h400L480-360Z"/></svg>
               </button>
             </li>
